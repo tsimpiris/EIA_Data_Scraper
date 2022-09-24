@@ -1,6 +1,7 @@
-# Project Title
+# EIA Data Scraper
 
-A brief description of what this project does and who it's for
+A simple web scraper based in BeautifulSoup4
+It scrapes EIA data (U.S Total Gasoline Sales - Thousand Gallons per Day) from 1983 till today.
 
 
 ## Tech Stack
